@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/client.pw.toml"
-hash = "a09f8e16f137e42da8d9fe1f8696c6dc4f548b246af73595b1ae5f5933a7f5af"
+hash = "2b08fe0c4b7ba1336d5bc1b98bbb731b1e3bd86f3ec670d2c2b983817ed3a95d"
 metafile = true
 
 [[files]]
