@@ -1,0 +1,7 @@
+name = "Client"
+filename = "minecraft.jar"
+
+[download]
+url = "https://os-mc.net/launcher/libraries/minecraft.jar"
+hash-format = "sha256"
+hash = "067a3b2870db556402ece08543ce50ff9db0708318495cea072b0c2700c78214"
