@@ -1,5 +1,6 @@
 name = "Client"
 filename = "minecraft.jar"
+side = "client"
 
 [download]
 url = "https://os-mc.net/launcher/libraries/minecraft.jar"
